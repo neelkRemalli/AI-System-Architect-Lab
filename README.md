@@ -20,6 +20,7 @@ This repository contains 5 progressive labs focused on mastering AI infrastructu
 - **Objective:** Build a functional UI to interact with Cloud LLMs (Gemini 2.0 via OpenRouter).
 - **Core Concepts:** Inference Pipelines, API Integration, Hyperparameter Tuning (Temperature, Max Tokens).
 - **Status:** ✅ Completed
+- Live Demo: https://huggingface.co/spaces/neelkRemalli/ai-system-architect-lab01
 
 ### [Lab 02] - Local Infrastructure & Ollama Setup (Upcoming)
 - **Objective:** Migrating from Cloud to Localhost using Dell T5500.
